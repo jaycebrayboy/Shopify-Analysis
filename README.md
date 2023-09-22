@@ -1,7 +1,5 @@
 # Shopify-Analysis
-
-Power BI
-In this project, I reviewed the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. The task was to figure out what key factors play into the success of a Shopify app.
+In this project, I reviewed the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. The task was to figure out what key factors play into the success of a Shopify app using Power BI.
 
 Used different visualization to find key statistics on the apps,
 
